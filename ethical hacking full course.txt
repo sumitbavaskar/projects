@@ -1,0 +1,72 @@
+what is ethical hacking?
+1)penetration testing and cyber security.
+2) legally breaking into the systems and servers.
+3) securing the organization .
+4) Defeating the bad hackers.
+
+performing hacking like penetratio testing and entering into the system and servers with full legality and undertaken laws 
+and securing the system form bad hackers.
+
+types of the hackers
+1)white hat hacker:- its a ethical hacker which done the hacking with all the legallities and its secures the system.
+
+2)gray hackers:- its performs legal and illigal hacking also.
+
+3) black hackers :- its performs all the illigal hacking 
+
+types of the attacks on a systems
+1)operatings system attacks:- finding the vernabilities of the operating system and takes the access to the system is known as the operating system attacks .
+   ex:- null attack , misconfiguring attack
+h 
+2) misconfiguration attack :- every system has some default setting if we did not change that setting then it can become the part of the vernability and causes the misconfiguration attack.
+th
+3) Application level attacks:- finding the vernabilities into the web applications and taking access of the application is known as the application level attack.
+
+4) shrink wrap code attacks:- this is the types of the attack which attacks on the existing vernability patches which are not remove by the organization. 
+
+   
+cyber Laws
+1) the patents act 1999,
+2)the trade mark act 1999
+3) the copyright act 1957
+4) information technology act 
+use the  https://www.ipindia.nic.in and https://www.meity.gov.in these links to know more about these acts.
+
+what is the computer networking?
+the commucation between the two or more computers is known as the computer networking .
+
+It include the commucation, sharing software, sharing files, sharing data  , sharing hardware, information perservation, security, like components. 
+ 
+lets take an example of the router . It take the internet from the isp (internet service provider)and it got the public ip(internet portocol) ex. :- 192.168.0.1
+  
+ The every router has its own private ip and the router share that ip to its connected devices and if any send any request to the router then the router the send that request to the browser with its public and take the responce that public ip and share that response to the connected device on the private ip address .
+
+IP (internet protocol address)
+IPv4 has the4 pairs of and each pair is (8 bits=1 byte) so the total IP address is a (32 bits= 4 bytes).
+
+the 4 different pairs provide different  information of the user device.
+ example:- 17.172.224.47 
+      here the 1) 17 = first pair represents the country of device.
+               2) 172 = second pair represents the state of device.
+               3) 224 = third pair represents the ISP of the device.
+                4) 47 =   fourth pair shows the devices used.
+
+types of the IP address.
+ 1) public:- its the open ip address for the all over the world.
+  2) private:- its the IP that works in the limited area .
+   3) static :- its a fix IP it can't be change once it alloted.
+   4) dynamic:- its a changable ip address.
+
+role of the ports.
+
+ports are basically a route that the information id travel form a system to another system.
+
+there are the 65535 ports are available for the system.
+these ports are has 3 types viz..., open , closed or the filtered.
+
+ From the 65535 ports 0-1023 ports are the fixed ports that has the fix user.
+
+From 1024-49151 ports are the registered ports.
+From 49151-65535 ports are the dynamic ports which are the open ports that can provide to any user device.
+
+ 

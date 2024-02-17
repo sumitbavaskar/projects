@@ -1,0 +1,40 @@
+cyber security expert:
+
+1) OS knowledge
+    -windows& linux.
+    -Basic networking.
+    -Advanced linux.
+    -Ethical hacking.
+2)Networking concepts
+
+3) lab setup
+
+4) linux
+
+5)Ethical hacking.
+
+6) footprinting & recongniassinace ( information gathering).
+
+7) Scanning Network
+
+8) Enumeration(finding hidden information of the victim system).
+
+9)vernability analysis.
+
+10) System Hacking.
+
+11) Malware Threats(Hacked by the viruses/ Malwares).
+
+12) Sniffing(Reading the unknown sytem).
+
+13) Social Engineering.
+
+14) Danial of service / D Dos.
+15)Session hijacking.
+16)Hacking web severs & Application.
+17)Hacking wireless Networks.
+18) Hacking Mobile Platform.
+19) Cryptography.
+20) Being Anonymous.
+21) System Security using firewall , WAF and antivirus.
+22) Job Assistance and career Counsiling.aad
